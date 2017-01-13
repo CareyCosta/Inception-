@@ -1,0 +1,113 @@
+
+* {
+  font-family: sans-serif;
+}
+
+.banner {
+  background-color: rgb(15, 188, 168);
+  color: white;
+  font-weight: bold;
+  padding-bottom: 0px;
+  padding-top: 20px;
+  padding-left: 20px;
+  margin: 0px;
+  }
+
+body {
+  margin: 0px;
+}
+
+  .menu {
+    display: block;
+    text-align: right;
+  }
+
+  .item {
+    display:inline-table;
+    font-weight: normal;
+  }
+
+  section {
+    max-width: 900px;
+    margin: auto;
+    position: relative;
+    width: 800px;
+  }
+
+  img {
+    position: absolute;
+    width: auto;
+    height: 300px;
+  }
+
+.one {
+  display: block;
+  height: 300px;
+  background-color: rgb(10, 69, 122);
+  padding-bottom: 5px;
+}
+.meowcome {
+  position: absolute;
+  right: 20px;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 0px;
+}
+.meowcome h1 {
+  display: inline-block;
+}
+
+.two {
+  background-color: gold;
+  padding: 30px;
+  margin: 0px;
+}
+
+.three {
+  display:block;
+  background-color: gray;
+  padding: 20px;
+  margin: 0px;
+}
+
+.images {
+  display: block;
+}
+
+.img {
+  display: inline-table;
+  border: 3px solid black;
+  padding: 0px;
+  margin: 10px;
+}
+
+.four {
+  display: block;
+  background-color: rgb(10, 69, 122);
+}
+
+.titles {
+  color: pink;
+  text-align: center;
+  display: block;
+}
+
+.titles h4 {
+  display: inline-table;
+}
+
+.four p {
+  color: white;
+  padding: 20px;
+  margin: 0px;
+}
+
+footer {
+  text-align: right;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(15, 188, 168);
+  padding: 20px;
+}
